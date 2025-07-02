@@ -37,7 +37,7 @@ Welcome to **Nomadic Travel**, a frontend web application built using **Next.js*
 - **Tailwind CSS**
 - **Axios**
 - **js-cookie** for token management
-- **Django REST Framework** (Backend API - assumed)
+- **Django REST Framework**
 
 ---
 
